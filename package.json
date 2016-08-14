@@ -4,7 +4,8 @@
   "description": "App to display info on a Pi",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
