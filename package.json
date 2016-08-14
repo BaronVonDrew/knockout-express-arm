@@ -1,0 +1,22 @@
+{
+  "name": "displayr",
+  "version": "1.0.0",
+  "description": "App to display info on a Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "jquery": "^3.1.0",
+    "knockout": "^3.4.0",
+    "method-override": "^2.3.6",
+    "requirejs": "^2.2.0",
+    "text": "requirejs/text"
+  }
+}
